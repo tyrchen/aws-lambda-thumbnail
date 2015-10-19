@@ -1,0 +1,15 @@
+{
+  "name": "sam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyr Chen <tyr.chen@gmail.com> (http://tchen.me)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "gm": "^1.20.0"
+  }
+}
